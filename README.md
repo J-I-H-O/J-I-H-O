@@ -13,4 +13,4 @@
 
 ### solved.ac
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=meonji)](https://solved.ac/meonji)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=meonji)](https://solved.ac/profile/meonji)
