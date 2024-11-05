@@ -1,6 +1,6 @@
 ### Currently Learning
 
-![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white) ![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white) ![Hibernate Badge](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) 
+![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white) ![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white) ![JPA Badge](https://img.shields.io/badge/JPA-59666C?style=flat&logo=Hibernate&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) 
 
 ### Activities
 - 우아한테크코스 웹 백엔드 6기 (2024.02 ~ 2024.11)
